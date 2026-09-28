@@ -178,4 +178,5 @@ The planner therefore adapts its scheduling strategy to the geometry and availab
 satellite-imaging-planner/
 │
 ├── README.md
-└── solution.[file-extension]
+└── solution.py
+
